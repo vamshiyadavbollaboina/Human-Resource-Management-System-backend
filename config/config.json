@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "hrms_och0_user",
+    "password": "dvGJ4ZEmHfgPpo4NhJgM2xWSXairF1JC",
+    "database": "hrms_och0",
+    "host": "dpg-d4gmjo4hg0os73fthbs0-a.singapore-postgres.render.com",
+    "port": 5432,
+    "dialect": "postgres"  
+  },
+  "production": {
+    "username": "hrms_och0_user",
+    "password": "dvGJ4ZEmHfgPpo4NhJgM2xWSXairF1JC",
+    "database": "hrms_och0",
+    "host": "dpg-d4gmjo4hg0os73fthbs0-a.singapore-postgres.render.com",
+    "port": 5432,
+    "dialect": "postgres"  
+  }
+}
